@@ -32,7 +32,7 @@
 <div id="search_home" style="display: block;">
 	<img id="logo" src="images/logo.png"><br><br>
 	<input type="text" id="qs" autofocus="" class="q_mobile"><br><br>
-	<button id="sbt">Search</button> <button id="lucky">Get first</button>
+	<button id="sbt">Search</button> <button id="lucky">Get Doodles</button>
 </div>
 
 <div id="search">

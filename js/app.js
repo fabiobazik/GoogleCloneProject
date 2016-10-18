@@ -1,41 +1,10 @@
-/*
------------------------------------------------------------------------
-
-	* Google search script 1.9
-	* Developed by Algoprog
-	* Last edit: 6/28/2016
-	
-	[-- TERMS OF USE --]
-	
-	YOU CAN USE THIS SCRIPT WITHOUT ANY RESTRICTIONS, IT IS COMPLETELY
-	LEGAL AS IT IS BASED ON APIS PROVIDED BY GOOGLE FOR FREE USE. BUT 
-	IT IS RECOMMENDED THAT YOU DON'T HIDE GOOGLE BRANDING IN THE SEARCH
-	RESULTS TO PREVENT ANY LEGAL ISSUES. ALSO YOU CAN INCLUDE ALGOPROG 
-	IN YOUR CREDITS IF YOU WISH, I WOULD REALLY APPRECIATE IT, HOWEVER 
-	THIS IS NOT NESECAIRY.
-	
-	[-- PLEASE DON'T STEAL! --]
-	
-	PLEASE DON'T DOWNLOAD OR REDISTRIBUTE THIS SCRIPT FOR FREE OR FOR
-	YOUR OWN PROFIT, I AM AN INDEPENDENT DEVELOPER. BY GIVING A SMALL 
-	AMOUNT TO BUY THIS SCRIPT YOU HELP ME CONTINUE AND IMPROVE IT.
-	
-	IF THIS IS AN ILLEGAL COPY, A "NULLED" SCRIPT PLEASE GO
-	AND BUY THIS SCRIPT IN THE URL BELLOW:
-	
-	https://algoprog.com/google-search-script
-	
-	THANK YOU!
-	
------------------------------------------------------------------------
-*/
 
 $(document).ready(function(){
 	
-	app_name = "Google search script"; //your search engine name
+	app_name = "Google search clone"; 
 	loc = "en"; //your language
 	pubId = "pub-9616389000213823"; //your AdSense Custom Search Ads pubId
-	domain = "localhost"; //your domain name
+	domain = "https://git.heroku.com/searchapplication.git"; //your domain name
 	
 	query_prediction = "";
 	query = "";

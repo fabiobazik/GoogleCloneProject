@@ -3,8 +3,8 @@ $(document).ready(function(){
 	
 	app_name = "Google search clone"; 
 	loc = "en"; //your language
-	pubId = "null"; //your AdSense Custom Search Ads pubId
-	domain = "https://searchapplication.herokuapp.com/"; //your domain name
+	pubId = "pub-9616389000213823"; //your AdSense Custom Search Ads pubId
+	domain = "searchapplication.herokuapp.com"; //your domain name
 	
 	query_prediction = "";
 	query = "";
